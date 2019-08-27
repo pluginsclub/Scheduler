@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scheduler\n"
+"POT-Creation-Date: 2019-05-01 21:52-0700\n"
+"PO-Revision-Date: 2019-05-01 21:52-0700\n"
+"Last-Translator: \n"
+"Language-Team: Tradesouthwest\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_x;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: customizer.php:15
+msgid "Scheduler Specific Controls"
+msgstr ""
+
+#: customizer.php:52
+msgid "Remove Header"
+msgstr ""
+
+#: customizer.php:53
+msgid "Check box to make more room for mobile"
+msgstr ""
+
+#: customizer.php:64
+msgid "Set Width of Page"
+msgstr ""
+
+#: customizer.php:65
+msgid "Add a custom width for you site pages wider than 600px."
+msgstr ""
+
+#: footer.php:11
+msgid "Sheduler: Tradesouthwest"
+msgstr ""
+
+#: footer.php:12
+msgid " Sheduler: "
+msgstr ""
+
+#: functions.php:33
+msgid "It is recommended that your server supports PHP 5.6 or higher."
+msgstr ""
+
+#: functions.php:58
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:59
+msgid "Desktop Menu"
+msgstr ""
+
+#: functions.php:119
+msgid "on"
+msgstr ""
+
+#: functions.php:165
+msgid "Widgets in this area will be shown at bottom of page."
+msgstr ""
+
+#: header.php:11
+msgid "Skip to content"
+msgstr ""
+
+#: index.php:57 index.php:123
+msgid "Keywords: "
+msgstr ""
+
+#: index.php:63 index.php:129
+msgid "Topic:  "
+msgstr ""
+
+#: index.php:87
+msgid "No content found for now. Please come back soon."
+msgstr ""
+
+#: index.php:141
+msgid "trackback from your own site."
+msgstr ""
+
+#: sidebar.php:19
+msgid "Top/Pg."
+msgstr ""
